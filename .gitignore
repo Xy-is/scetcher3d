@@ -1,0 +1,21 @@
+# Исключение папки node_modules
+node_modules/
+
+# Исключение файлов окружения
+.env
+.env.local
+
+# Исключение файлов WebStorm
+.idea/
+*.iml
+
+# Исключение временных файлов
+*.log
+*.cache
+*.tmp
+*.bak
+
+# Исключение файлов сборки и
+dist/
+build/
+out/
